@@ -1,0 +1,6 @@
+{
+  "name": "AcuAttend - AI College Attendance System",
+  "description": "Enterprise AI-powered college attendance system featuring facial recognition, dynamic QR codes, timetable scheduling, compliance alerts, and role-based workflows.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
